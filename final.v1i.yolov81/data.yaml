@@ -1,0 +1,6 @@
+train: /root/train/images
+val:  /root/valid/images
+test:  /root/test/images
+nc: 3
+names: ['Hyacinth', 'Raft', 'boat']
+
