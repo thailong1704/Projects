@@ -3,10 +3,10 @@ from PIL import Image
 from ultralytics import YOLO
 
 # Load mô hình YOLO
-model = YOLO("D:\\do an\\train2\\weights\\best.pt")
+model = YOLO("D:\\doan\\project2\\train2\\weights\\best.pt")
 
 # Đường dẫn đầu vào
-input_path ="C:\\Users\\ADMIN\\Downloads\\images.jpg"
+input_path ="D:\\doan\\project2\\image\\beo14-953.jpg"
 if input_path.lower().endswith(('.mp4', '.avi', '.mov', '.mkv')):
     # Chạy dự đoán trên video
     results = model.predict(source=input_path, save=True)
