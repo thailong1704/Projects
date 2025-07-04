@@ -1,0 +1,14 @@
+PHÂN TÍCH HIỆU QUẢ HỌC TẬP:
+
+MÔN HỌC CẦN CẢI THIỆN (Điểm thấp):
+- Hệ điều hành: 6.0 điểm
+- Cơ sở dữ liệu: 6.5 điểm
+- An toàn thông tin: 6.8 điểm
+
+MÔN HỌC ĐIỂM CAO (Thế mạnh):
+- Thuật toán: 8.0 điểm
+- Quản lý dự án: 8.3 điểm
+- Toán cao cấp: 8.5 điểm
+- Phân tích hệ thống: 8.7 điểm
+- Lập trình C++: 9.0 điểm
+- Trí tuệ nhân tạo: 9.2 điểm

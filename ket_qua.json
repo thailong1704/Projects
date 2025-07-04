@@ -1,0 +1,102 @@
+{
+  "student_info": {
+    "id": "sample_student",
+    "name": "Nguyen Van A",
+    "major": "Công nghệ thông tin",
+    "year": "Năm 3"
+  },
+  "academic_records": [
+    {
+      "semester": "Học kỳ 1 - Năm 2023",
+      "subjects": [
+        {
+          "name": "Toán cao cấp",
+          "credits": 3,
+          "grade": "B+",
+          "score": 8.5
+        },
+        {
+          "name": "Lập trình C++",
+          "credits": 4,
+          "grade": "A",
+          "score": 9.0
+        },
+        {
+          "name": "Cơ sở dữ liệu",
+          "credits": 3,
+          "grade": "C+",
+          "score": 6.5
+        },
+        {
+          "name": "Mạng máy tính",
+          "credits": 3,
+          "grade": "B",
+          "score": 7.5
+        }
+      ]
+    },
+    {
+      "semester": "Học kỳ 2 - Năm 2023",
+      "subjects": [
+        {
+          "name": "Thuật toán",
+          "credits": 4,
+          "grade": "B+",
+          "score": 8.0
+        },
+        {
+          "name": "Hệ điều hành",
+          "credits": 3,
+          "grade": "C",
+          "score": 6.0
+        },
+        {
+          "name": "Phân tích hệ thống",
+          "credits": 3,
+          "grade": "A-",
+          "score": 8.7
+        },
+        {
+          "name": "Tiếng Anh chuyên ngành",
+          "credits": 2,
+          "grade": "B",
+          "score": 7.0
+        }
+      ]
+    },
+    {
+      "semester": "Học kỳ 1 - Năm 2024",
+      "subjects": [
+        {
+          "name": "Trí tuệ nhân tạo",
+          "credits": 3,
+          "grade": "A",
+          "score": 9.2
+        },
+        {
+          "name": "Kỹ thuật phần mềm",
+          "credits": 4,
+          "grade": "B",
+          "score": 7.8
+        },
+        {
+          "name": "An toàn thông tin",
+          "credits": 3,
+          "grade": "C+",
+          "score": 6.8
+        },
+        {
+          "name": "Quản lý dự án",
+          "credits": 2,
+          "grade": "B+",
+          "score": 8.3
+        }
+      ]
+    }
+  ],
+  "gpa_summary": {
+    "cumulative_gpa": 7.65,
+    "total_credits": 33,
+    "credits_completed": 33
+  }
+}

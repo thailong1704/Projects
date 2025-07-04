@@ -1,0 +1,27 @@
+{
+  "nhan_xet": "Kết quả học tập khá với GPA 7.65. Đã phân tích 12 môn học. Trong đó: 4 môn xuất sắc, 4 môn tốt, 3 môn trung bình, 1 môn yếu.",
+  "mon_can_cai_thien": [
+    "Hệ điều hành",
+    "Cơ sở dữ liệu",
+    "An toàn thông tin"
+  ],
+  "hoc_phan_uu_tien": [
+    "Hệ điều hành",
+    "Cơ sở dữ liệu",
+    "An toàn thông tin"
+  ],
+  "ke_hoach": {
+    "thoi_gian": "2 học kỳ",
+    "chien_luoc": "Cải thiện điểm các môn yếu, tăng cường ôn tập",
+    "ghi_chu": "Ưu tiên cải thiện 3 môn học có điểm thấp"
+  },
+  "analysis_metadata": {
+    "student_info": {
+      "id": "sample_student",
+      "name": "Nguyen Van A",
+      "major": "Công nghệ thông tin"
+    },
+    "total_subjects_analyzed": 12,
+    "gpa_trend": "Tăng"
+  }
+}
