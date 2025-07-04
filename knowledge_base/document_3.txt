@@ -1,0 +1,10 @@
+HỌC KỲ: Học kỳ 1 - Năm 2023
+
+DANH SÁCH MÔN HỌC VÀ ĐIỂM SỐ:
+- Toán cao cấp: 8.5 điểm (B+) - 3 tín chỉ
+- Lập trình C++: 9.0 điểm (A) - 4 tín chỉ
+- Cơ sở dữ liệu: 6.5 điểm (C+) - 3 tín chỉ
+- Mạng máy tính: 7.5 điểm (B) - 3 tín chỉ
+
+GPA học kỳ: 7.96
+Tổng tín chỉ học kỳ: 13

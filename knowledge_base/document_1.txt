@@ -1,0 +1,5 @@
+THÔNG TIN SINH VIÊN:
+Mã số sinh viên: sample_student
+Họ và tên: Nguyen Van A
+Ngành học: Công nghệ thông tin
+Năm học: Năm 3
